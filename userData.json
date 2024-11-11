@@ -1,0 +1,52 @@
+[
+    {
+      "fullName": "Alice Smith",
+      "email": "alice.smith@example.com",
+      "phone": "123-456-7890",
+      "password": "password123",
+      "confirmPassword": "password123"
+    },
+    {
+      "fullName": "Bob Johnson",
+      "email": "bob.johnson@example.com",
+      "phone": "234-567-8901",
+      "password": "password456",
+      "confirmPassword": "password456"
+    },
+    {
+      "fullName": "Charlie Brown",
+      "email": "charlie.brown@example.com",
+      "phone": "345-678-9012",
+      "password": "password789",
+      "confirmPassword": "password789"
+    },
+    {
+      "fullName": "Diana Evans",
+      "email": "diana.evans@example.com",
+      "phone": "456-789-0123",
+      "password": "password321",
+      "confirmPassword": "password321"
+    },
+    {
+      "fullName": "Evan Green",
+      "email": "evan.green@example.com",
+      "phone": "567-890-1234",
+      "password": "password654",
+      "confirmPassword": "password654"
+    },
+    {
+      "fullName": "Fay Taylor",
+      "email": "fay.taylor@example.com",
+      "phone": "678-901-2345",
+      "password": "password987",
+      "confirmPassword": "password987"
+    },
+    {
+      "fullName": "George White",
+      "email": "george.white@example.com",
+      "phone": "789-012-3456",
+      "password": "passwordabc",
+      "confirmPassword": "passwordabc"
+    }
+  ]
+  
