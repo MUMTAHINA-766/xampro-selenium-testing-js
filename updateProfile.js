@@ -48,8 +48,8 @@ async function loginUser(driver, userData) {
 
     // Select Gender
    
-    await driver.findElement(By.id("radio-gender-male")).click();  // Assuming genderMale is the ID for the male radio button or dropdown option
-    await driver.findElement(By.id("radio-gender-female")).click();  // Assuming genderFemale is the ID for the female radio button or dropdown option
+    await driver.findElement(By.id("radio-gender-male")).click();  
+    await driver.findElement(By.id("radio-gender-female")).click();  
 
     await driver.findElement(By.className("profile-submit-page-btn btn btn-primary")).click();
 }
